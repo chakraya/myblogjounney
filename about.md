@@ -3,13 +3,11 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+I am Chamara and working as system engineer/devops +10 years. I started this blog to explore areas such as AWS , K8S and other devops related technologies.
 
-Reasons:
-- its great.
-- its a test.
 
-## Other thoughts
+## Any Suggestions
 
-This is great.
+Please contact me over chamara.thilina.samarakoon@gmail.com
+
+Thank You.
