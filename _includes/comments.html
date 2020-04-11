@@ -1,5 +1,5 @@
 <script>
-const GH_API_URL = 'https://api.github.com/repos/chakraya/myblogjourney/issues/1/comments';
+const GH_API_URL = 'https://api.github.com/repos/chakraya/myblogjourney/issues/{{ page.comments_id }}/comments';
 
 let request = new XMLHttpRequest();
 request.open( 'GET', GH_API_URL, true );
@@ -27,6 +27,8 @@ function createCommentEl( response ) {
 	let userAvatar = document.createElement( 'img' );
 	userAvatar.classList.add( 'avatar' );
 	userAvatar.setAttribute( 'src', response.user.avatar_url );
+	userAvatar.setAttribute( 'height', 48 );
+	userAvatar.setAttribute( 'width', 48 );
 
 	user.appendChild( userAvatar );
 
