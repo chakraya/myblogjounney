@@ -60,5 +60,6 @@ request.send();
 <div class="github-comments">
 	<h2>Comments</h2>
 	<ul id="gh-comments-list"></ul>
-	<p id="leave-a-comment">Join the discussion for this article on <a href="https://github.com/chakraya/myblogjourney/issues/1">this ticket</a>. Comments appear on this page instantly.</p>
+	<form action="https://github.com/chakraya/myblogjourney/issues/{{ page.comments_id }}#new_comment_field" rel="nofollow"> <input type="submit" value="Post a comment (using Github)"> </form>
+
 </div>
