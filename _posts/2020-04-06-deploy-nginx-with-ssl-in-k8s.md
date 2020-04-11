@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Deploy Nginx Load Balancer with SSL on Kubernetes
+comments_id: 1
 ---
 {% seo %} 
 ## Description
