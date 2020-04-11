@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deploy Nginx Load Balancer with SSL on Kubernetes
+title: Deploy Nginx Load Balancer / Reverse proxy with SSL on Kubernetes
 comments_id: 1
 ---
 {% seo %} 
