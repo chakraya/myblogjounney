@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: Role Base Access Control (RBAC) in Kubernetes
+title: Role-based access control (RBAC) in Kubernetes
 comments_id: 2
 ---
 {% seo %} 
