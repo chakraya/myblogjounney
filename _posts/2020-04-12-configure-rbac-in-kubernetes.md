@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Role-based access control (RBAC) in Kubernetes
