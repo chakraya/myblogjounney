@@ -1,5 +1,3 @@
-<img src="/assets/images/chakraya.png" alt="centered image" width="300" height="300">
-
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <th><img src="/assets/images/chakraya.png" alt="centered image" width="50" height="50"><img src="/assets/images/chakraya.png" alt="centered image" width="150" height="150"><img src="/assets/images/chakraya.png" alt="centered image" width="300" height="300"><img src="/assets/images/chakraya.png" alt="centered image" width="150" height="150"><img src="/assets/images/chakraya.png" alt="centered image" width="50" height="50"></th>
