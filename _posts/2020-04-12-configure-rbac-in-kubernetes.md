@@ -8,3 +8,4 @@ comments_id: 2
 ## Introduction
 
 In Kubernetes RBAC is used to manage user access to cluster resources  based on the roles their are assigned to.
+
