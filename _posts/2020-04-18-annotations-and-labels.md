@@ -4,7 +4,7 @@ title: What and when to use kubernetes Labels and Annotations
 comments_id: 3
 ---
 
-### Labels
+### **Labels**
 
 In Kubernetes Labels are used to identify/search objects. Some of the usages are to group pods for a deployment. So labels contain identifying information which can be used by selectors. 
 
@@ -60,7 +60,7 @@ metadata:
 …..
 ```
 
-### Annotations
+### **Annotations**
 
 On the other hand annotations are used to store information which is useful for later  inspections. Those  are non-identifying metadata. Some of the examples are as below. 
 Using this **kubernetes.io/change-cause** annotation we can store the last commands executed on the given object, which can be useful for future inspections.
@@ -105,6 +105,6 @@ Annotations:        email: myemail@gmail.com
                     kubernetes.io/change-cause: kubectl set image pod/nginx-pod nginx-pod=nginx:1.16 --record=true
 ```
 
-### Summary
+## Summary
 
 Labels are used to identify objects and in contrast annotations are used to store various information for various purposes.
