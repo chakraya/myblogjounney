@@ -3,7 +3,8 @@ layout: post
 title: Deploy Nginx Load Balancer / Reverse proxy with SSL on Kubernetes
 comments_id: 1
 ---
-{% seo %} 
+{% seo %}
+
 ## Description
 
 I will be using 2 tomcat pods as two applications  in the backend and expose those via Nginx ingess controller. There are other ingress controller also available. For more information please [refer this link](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/).
