@@ -43,7 +43,7 @@ metadata:
 ……
 ```
 
-Further in the deployments , deployment definition uses the labels to  select the pods which deployment definition should be  be applied.
+Further in the deployments , deployment definition uses the labels to  select the pods which deployment definition should  be applied.
 
 *Ex:*
 ```
