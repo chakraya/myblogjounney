@@ -3,6 +3,7 @@ layout: post
 title: What and when to use kubernetes Labels and Annotations
 comments_id: 3
 ---
+{% seo %}
 
 ### **Labels**
 

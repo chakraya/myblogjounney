@@ -3,7 +3,7 @@ layout: post
 title: Using Kubectl Proxy for Devops Purposes
 comments_id: 4
 ---
-
+{% seo %}
 
 ## Access Kubernetes Cluster services from outside for debugging purposes.
 
