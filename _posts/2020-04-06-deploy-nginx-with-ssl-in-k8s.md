@@ -4,7 +4,6 @@ title: Secure (SSL) Reverse proxy on Kubernetes
 description: Steps to Deploy Nginx Load Balancer / Reverse proxy with SSL on Kubernetes
 comments_id: 1
 ---
-{% seo %}
 
 ## Description
 

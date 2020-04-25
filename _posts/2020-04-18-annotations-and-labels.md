@@ -4,7 +4,6 @@ title: Kubernetes Labels and Annotations
 description: Discuss the usage of kubernetes Labels and Annotations
 comments_id: 3
 ---
-{% seo %}
 
 ### **Labels**
 

@@ -4,7 +4,6 @@ title: Preserve Source IP with NodePort service
 description: How to Preserve Source IP for auditing in Kubernetes cluster deployments
 comments_id: 5
 ---
-{% seo %}
 
 
 

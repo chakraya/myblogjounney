@@ -4,7 +4,6 @@ title: Kubectl Proxy for Devops Purposes
 description: How to use Kubernetes Kubectl proxy for  Devops Purposes
 comments_id: 4
 ---
-{% seo %}
 
 ## Access Kubernetes Cluster services from outside for debugging purposes.
 

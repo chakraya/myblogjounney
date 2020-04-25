@@ -4,7 +4,6 @@ title: Create users on  Kubernetes cluster
 description: How to create users on Kubernetes cluster using Role-based access control (RBAC)
 comments_id: 2
 ---
-{% seo %} 
 
 ## Introduction
 
