@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Using Kubectl Proxy for Devops Purposes
+title: Kubectl Proxy for Devops Purposes
+description: How to use Kubernetes Kubectl proxy for  Devops Purposes
 comments_id: 4
 ---
 {% seo %}

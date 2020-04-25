@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Role-based access control (RBAC) in Kubernetes
+title: Create users on  Kubernetes cluster
+description: How to create users on Kubernetes cluster using Role-based access control (RBAC)
 comments_id: 2
 ---
 {% seo %} 
