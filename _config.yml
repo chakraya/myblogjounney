@@ -1,4 +1,5 @@
 # basic options
+url: https://chakraya.com
 title: Welcome to Chakraya Blog
 author: Chamara Thilina
 email: chamara.thilina.samarakoon@gmail.com
@@ -11,4 +12,4 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  - jekyll-sitemap
