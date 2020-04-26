@@ -4,6 +4,8 @@ title: Welcome to Chakraya Blog
 author: Chamara Thilina
 email: chamara.thilina.samarakoon@gmail.com
 description: Blogging on Kubernetes, AWS and many more Devops and Linux SysAdmin Stuff ...
+type: Blog
+image: https://chakraya.com/assets/images/chakraya.png
 github_username:  chakraya
 
 # Build settings
